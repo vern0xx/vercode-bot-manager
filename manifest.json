@@ -10,9 +10,11 @@
   "mandatory": true,
   "templates": [],
   "min_host": "",
-  "published_at": "2026-11-07T09:57:36.938131+00:00",
+  "published_at": "2026-11-07T10:08:28.619690+00:00",
   "highlights": [
     "Stabilniejsze logowanie botów",
     "Szybszy ekran startowy"
-  ]
+  ],
+  "rollout": 100,
+  "notice": "Zalecany Restart Aplikacji"
 }
