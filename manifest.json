@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "2.11.1",
   "channel": "stable",
   "changelog": "- Instalator i kanały Stable/Beta\n- Modal podziękowania i feedback\n- Panel admina wydawniczy",
   "download_url": "",
@@ -9,8 +9,8 @@
   "tar_url": "",
   "mandatory": true,
   "templates": [],
-  "min_host": "3.0.1",
-  "published_at": "2026-11-07T15:37:36.597321+00:00",
+  "min_host": "2.11.0",
+  "published_at": "2026-11-07T15:58:21.720711+00:00",
   "highlights": [
     "Stabilniejsze logowanie botów",
     "Szybszy ekran startowy"
