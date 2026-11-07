@@ -1,7 +1,7 @@
 {
   "service": "vercode-bot-manager",
   "ok": true,
-  "updated_at": "2026-11-07T10:11:35Z",
+  "updated_at": "2026-11-07T10:14:15Z",
   "endpoints": {
     "stable": "manifest.json",
     "beta": "manifest-beta.json",
