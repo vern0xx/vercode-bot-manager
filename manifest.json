@@ -3,10 +3,14 @@
   "channel": "stable",
   "changelog": "- Instalator i kanały Stable/Beta\n- Modal podziękowania i feedback\n- Panel admina wydawniczy",
   "download_url": "",
-  "mandatory": true,
+  "exe_url": "",
+  "sha256": "",
+  "size": 0,
+  "tar_url": "",
+  "mandatory": false,
   "templates": [],
   "min_host": "",
-  "published_at": "2026-11-07T08:46:26.461518+00:00",
+  "published_at": "2026-11-07T09:53:13.342973+00:00",
   "highlights": [
     "Stabilniejsze logowanie botów",
     "Szybszy ekran startowy"
