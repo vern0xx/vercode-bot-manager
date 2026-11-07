@@ -1,14 +1,16 @@
 {
-  "version": "2.6.1",
+  "version": "2.7.0",
   "channel": "stable",
-  "changelog": "- Instalator i kanały Stable/Beta\n- Modal podziękowania i feedback\n- Panel admina wydawniczy",
-  "download_url": "",
-  "mandatory": true,
-  "templates": [],
-  "min_host": "",
-  "published_at": "2026-11-07T07:09:17.363068+00:00",
+  "changelog": "Pierwsze wydanie na hubie Pages.",
   "highlights": [
-    "Stabilniejsze logowanie botów",
-    "Szybszy ekran startowy"
-  ]
+    "Hub GitHub Pages",
+    "Auto-update",
+    "Kompilator .exe"
+  ],
+  "download_url": "",
+  "exe_url": "",
+  "tar_url": "",
+  "mandatory": false,
+  "min_host": "2.6.0",
+  "published_at": "2026-11-07T08:24:49Z"
 }
