@@ -1,0 +1,12 @@
+{
+  "service": "vercode-bot-manager",
+  "ok": true,
+  "updated_at": "2026-11-07T10:15:21Z",
+  "endpoints": {
+    "stable": "manifest.json",
+    "beta": "manifest-beta.json",
+    "status": "status.json",
+    "downloads": "dist/"
+  },
+  "pages": "https://vern0xx.github.io/vercode-bot-manager/"
+}
