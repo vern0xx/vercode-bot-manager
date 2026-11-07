@@ -1,0 +1,20 @@
+{
+  "version": "1.0.1",
+  "channel": "stable",
+  "changelog": "- Instalator i kanały Stable/Beta\n- Modal podziękowania i feedback\n- Panel admina wydawniczy",
+  "download_url": "",
+  "exe_url": "",
+  "sha256": "",
+  "size": 0,
+  "tar_url": "",
+  "mandatory": false,
+  "templates": [],
+  "min_host": "",
+  "published_at": "2026-11-07T15:36:51.518852+00:00",
+  "highlights": [
+    "Stabilniejsze logowanie botów",
+    "Szybszy ekran startowy"
+  ],
+  "rollout": 100,
+  "notice": ""
+}
