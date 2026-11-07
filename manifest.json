@@ -1,16 +1,16 @@
 {
-  "version": "2.12.1",
+  "version": "2.13.1",
   "channel": "stable",
   "changelog": "- Instalator i kanały Stable/Beta\n- Modal podziękowania i feedback\n- Panel admina wydawniczy",
-  "download_url": "https://vern0xx.github.io/vercode-bot-manager/host-2.12.1.tar.gz",
+  "download_url": "https://vern0xx.github.io/vercode-bot-manager/host-2.13.1.tar.gz",
   "exe_url": "",
-  "sha256": "0dffd15292be5108ba39e32e17567d692975fd7b36b0a3bcd371e09d8b03d500",
-  "size": 133587,
-  "tar_url": "https://vern0xx.github.io/vercode-bot-manager/host-2.12.1.tar.gz",
+  "sha256": "9371587aa8b8e83de5cca09d64440bac6099fa1c7e35a66ed05e1b2590c2f6dd",
+  "size": 134294,
+  "tar_url": "https://vern0xx.github.io/vercode-bot-manager/host-2.13.1.tar.gz",
   "mandatory": true,
   "templates": [],
   "min_host": "",
-  "published_at": "2026-11-07T16:04:38.252908+00:00",
+  "published_at": "2026-11-07T16:29:02.088796+00:00",
   "highlights": [
     "Stabilniejsze logowanie botów",
     "Szybszy ekran startowy"
