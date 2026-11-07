@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "bots": [
+    {
+      "id": "sentron",
+      "name": "sentron",
+      "version": "1.0.0",
+      "description": "",
+      "author": "",
+      "tags": [],
+      "changelog": "",
+      "entry": "main.py",
+      "requirements": [
+        "discord.py>=2.4.0",
+        "python-dotenv>=1.0",
+        "humanize>=4.0",
+        "aiohttp>=3.9"
+      ],
+      "url": "bots/sentron/sentron-1.0.0.tar.gz",
+      "sha256": "01a137db0cec403ea1733bf09f013bc3401db0ca9bf536c80c5c2048181d11d7",
+      "size": 11169,
+      "updated_at": "2026-11-07T10:11:06Z"
+    }
+  ],
+  "updated_at": "2026-11-07T10:11:06Z"
+}
