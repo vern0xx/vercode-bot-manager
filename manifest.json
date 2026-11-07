@@ -1,0 +1,14 @@
+{
+  "version": "2.6.1",
+  "channel": "stable",
+  "changelog": "- Instalator i kanały Stable/Beta\n- Modal podziękowania i feedback\n- Panel admina wydawniczy",
+  "download_url": "",
+  "mandatory": true,
+  "templates": [],
+  "min_host": "",
+  "published_at": "2026-11-07T07:09:17.363068+00:00",
+  "highlights": [
+    "Stabilniejsze logowanie botów",
+    "Szybszy ekran startowy"
+  ]
+}
