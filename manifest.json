@@ -9,8 +9,8 @@
   "tar_url": "",
   "mandatory": false,
   "templates": [],
-  "min_host": "",
-  "published_at": "2026-11-07T15:36:51.518852+00:00",
+  "min_host": "3.0.1",
+  "published_at": "2026-11-07T15:37:30.784865+00:00",
   "highlights": [
     "Stabilniejsze logowanie botów",
     "Szybszy ekran startowy"
